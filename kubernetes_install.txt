@@ -40,3 +40,6 @@ Setting cluster:
 3. paste in master node 
 4. try : kubectl get po 
 5. copy join token in master and paste it in worker node
+
+
+#There could be a connection errors between the VMs, perform all the steps carefully
